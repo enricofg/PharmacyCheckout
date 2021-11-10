@@ -1,6 +1,6 @@
 # Pharmacy Checkout
 
-Computer engineering course project made with Laravel and Vue for a pharmacy website where medication can be bought. 
+Computer engineering course Single Page Application project made with Laravel and Vue for a pharmacy website where medication can be bought. 
 Also available are different profiles for different navigation features.
 
 Directories _vendor_ and _node_modules_ not included. Commands '_composer update_' and '_npm install_' are required for proper execution. 
